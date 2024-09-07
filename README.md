@@ -1,6 +1,6 @@
 👋 Hello, I’m Sai Subhash!
 
-I’m a dedicated Machine Learning Engineer with 4 years of experience specializing in Generative AI and Large Language Models (LLMs). 
+I’m a dedicated Machine Learning Engineer with 4 years of experience specializing in Machine Learning (ML) and Generative AI. 
 I’m passionate about leveraging cutting-edge technology to solve complex problems and drive innovation.
 
 🎓 Education
@@ -18,13 +18,13 @@ Leading Generative AI projects that utilize Large Language Models (LLMs) to crea
 
 Machine Learning & AI: TensorFlow, Keras, PyTorch, Scikit-learn
 Generative AI: Expertise in creating and optimizing LLMs
-Programming Languages: Python, Java, JavaScript, C#
+Programming Languages: Python, SQL, R, Scala
 Cloud Platforms: Azure, AWS
 Data Engineering: Design and implementation of ETL pipelines, data transformation, and model deployment
 
 📊 Current Focus
 
-I’m actively seeking full-time positions where I can apply my expertise in Generative AI and machine learning. I am particularly interested in roles that allow me to innovate with AI technologies and tackle challenging problems.
+I’m actively seeking full-time positions where I can apply my expertise in Machine Learning (ML) and Generative AI. I am particularly interested in roles that allow me to innovate with AI technologies and tackle challenging problems.
 
 🌍 Career Goals
 
